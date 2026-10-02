@@ -2,7 +2,8 @@
 
 Taller de la materia **Patrones de Software** de la Universidad Cooperativa de Colombia. Apliqué el patrón estructural **Decorator** a un caso de la vida real: armar un plan de celular con servicios adicionales.
 
-🔗 **Aplicación desplegada:** https://santiago425.github.io/patron-decorator/
+🔗 **Aplicación desplegada:** https://santiago425.github.io/patron-decorator/    
+
 📁 **Repositorio:** https://github.com/Santiago425/patron-decorator
 
 ---
