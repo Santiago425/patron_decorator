@@ -224,7 +224,7 @@ A los pocos minutos queda publicado en https://santiago425.github.io/patron_deco
 - **Abierto/cerrado:** para agregar un nuevo servicio solo se crea un decorador nuevo, sin tocar los planes ni los otros decoradores.
 - **Responsabilidad única:** cada decorador se encarga de un solo servicio.
 - **Combinaciones en tiempo de ejecución:** el usuario arma su plan como quiera, en el orden que quiera, sin necesitar una clase por combinación.
-- **Mismo contrato:** el cliente trata igual un plan base que un plan con diez decoradores, porque todos son `MobilePlan`.
+- **Mismo contrato:** el cliente trata igual un plan base que un plan con diez decoradores, porque todos son `MobilePlan`..
 
 ## Autores 
 
