@@ -2,9 +2,9 @@
 
 Taller de la materia **Patrones de Software** de la Universidad Cooperativa de Colombia. Apliqué el patrón estructural **Decorator** a un caso de la vida real: armar un plan de celular con servicios adicionales.
 
-🔗 **Aplicación desplegada:** https://santiago425.github.io/patron-decorator/    
+🔗 **Aplicación desplegada:** https://santiago425.github.io/patron_decorator/    
 
-📁 **Repositorio:** https://github.com/Santiago425/patron-decorator
+📁 **Repositorio:** https://github.com/Santiago425/patron_decorator
 
 ---
 
@@ -157,7 +157,7 @@ classDiagram
 ## Estructura del proyecto
 
 ```
-patron-decorator/
+patron_decorator/
 ├── index.html
 ├── css/
 │   └── styles.css
@@ -201,8 +201,8 @@ El proyecto usa módulos de JavaScript (`type="module"`), así que no funciona a
 **Opción 2: Python**
 
 ```bash
-git clone https://github.com/Santiago425/patron-decorator.git
-cd patron-decorator
+git clone https://github.com/Santiago425/patron_decorator.git
+cd patron_decorator
 python -m http.server 8000
 ```
 
@@ -216,7 +216,7 @@ El proyecto está desplegado con **GitHub Pages** desde la rama `main`:
 2. En *Source* elegir **Deploy from a branch**.
 3. Rama `main` y carpeta `/ (root)` → *Save*.
 
-A los pocos minutos queda publicado en https://santiago425.github.io/patron-decorator/
+A los pocos minutos queda publicado en https://santiago425.github.io/patron_decorator/
 
 ## Ventajas del patrón en este caso
 
@@ -229,3 +229,4 @@ A los pocos minutos queda publicado en https://santiago425.github.io/patron-deco
 
 **Santiago** · [@Santiago425](https://github.com/Santiago425)  
 Universidad Cooperativa de Colombia · Patrones de Software
+
