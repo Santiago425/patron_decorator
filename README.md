@@ -225,8 +225,12 @@ A los pocos minutos queda publicado en https://santiago425.github.io/patron_deco
 - **Combinaciones en tiempo de ejecución:** el usuario arma su plan como quiera, en el orden que quiera, sin necesitar una clase por combinación.
 - **Mismo contrato:** el cliente trata igual un plan base que un plan con diez decoradores, porque todos son `MobilePlan`.
 
-## Autor
+## Autores 
 
 **Santiago** · [@Santiago425](https://github.com/Santiago425)  
+Laura Sofia Meza Reinoso 
+Armando Monterroza
+Santiago Alejandro Campoverde 
+Asignatura: Patrones de Software 
 Universidad Cooperativa de Colombia · Patrones de Software
 
